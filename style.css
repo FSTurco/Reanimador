@@ -85,6 +85,11 @@ p {
 
 hr {
   size: 2;
-  margin: 70px 20px 50px 20px;
+  margin: 70px 0px 50px 0px;
   color: #feefcb;
+  border: 1px solid #feefcb;
+}
+
+li {
+  color: #caa54d;
 }
